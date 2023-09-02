@@ -10,3 +10,11 @@
 section {
   padding-top: 5rem;
 }
+
+.galeri-img {
+  width: 100%;
+}
+
+#galeri .row > * {
+  padding: 0;
+}
